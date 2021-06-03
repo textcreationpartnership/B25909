@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to Mr. Samuel Johnson occasion'd by his argument, proving that the abrogation of King James, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25909</idno><idno type="EEBO-CITATION">27400413</idno>
+  <idno type="VID">205742</idno>
+  <idno type="EEBO-PROQUEST">2240895801</idno>
+  
+            <idno type="STC">Wing L1719</idno>
+            <idno type="OCLC">27400413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to Mr. Samuel Johnson occasion'd by his argument, proving that the abrogation of King James, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by WIng.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Johnson, Samuel, 1649-1703. --  Argument proving, that the abrogation of King James.</term>
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Succession.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:205742:1"/>
+            <head>A <hi>LETTER</hi> to Mr. <hi>Samuel John<g ref="char:EOLhyphen"/>son,</hi> occasion'd by his <hi>Argument, proving that the Abrogation of King</hi> James, <hi>&amp;c.</hi>
+            </head>
+            <div type="to_the_reader">
+               <head>To the Reader.</head>
+               <p>
+                  <hi>THis Letter comes to you by the direction of Mr.</hi> Samuel Johnson; <hi>it was sent to him in a private and friend<g ref="char:EOLhyphen"/>ly manner, and he desired it might be printed, and then he would give his Thoughts of it; which was cha<g ref="char:EOLhyphen"/>ritably done, that the Nation might partake farther of his Ability in this most important Point of Government, the</hi> Original <hi>and</hi> Na<g ref="char:EOLhyphen"/>ture <hi>of it, its true</hi> Intent <hi>and</hi> Limitations, <hi>to make it consistent with the End for which it was ordained,</hi> the Good and Safety of the People; <hi>towards which I am glad it happens in my way to contribute, by being the occasion of prompting others to speak, who can do it much better than my self.</hi>
+               </p>
+            </div>
+            <div type="letter_proper">
+               <head>The LETTER.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>YOU have suffered much, contending for the Good of your Country, and asserting the true <hi>English</hi> Freedom; and you have given us another Effort of your Zeal in the late Tract which you bestowed on the House of Commons, enti<g ref="char:EOLhyphen"/>tuled, <hi>An Argument proving that the Abrogation of King</hi> James <hi>by the People of</hi> England <hi>from the Regal Throne, and the Promo<g ref="char:EOLhyphen"/>tion of the Prince of</hi> Orange, <hi>one of the Royal Family, to the
+<pb n="2" facs="tcp:205742:2"/>Throne of the Kingdom in his stead, was according to the Consti<g ref="char:EOLhyphen"/>tution of the English Government, and prescribed by it.</hi>
+               </p>
+               <p>This you prove, <hi>pag.</hi> 50. by a Declaration of the Lords and Commons 10 <hi>Ric.</hi> 2. in their Message to the King, which is mentioned by <hi>Knighton,</hi> and the import of it is, <hi>That if the King will not govern according to Law, the People may Depose him, and set up some other of the Royal Family in his stead.</hi> And the Declaration mentions that they have it by antient Statute; but you confess, <hi>p.</hi> 52, 53. that there is no such Statute to be found in the Records of the <hi>Tower,</hi> or any where else.</p>
+               <p>But besides this, you will be told that this was a Rebellious Parliament, such as that in 1641. and their deposing <hi>R.</hi> II. and setting up <hi>H.</hi> IV. was declared illegal; and this was the Rise of that bloudy and long liv'd War 'twixt <hi>York</hi> and <hi>Lan<g ref="char:EOLhyphen"/>caster,</hi> (and therefore a very unlucky Precedent to be brought in our present Case;) and that notwithstanding three <hi>Lan<g ref="char:EOLhyphen"/>castrian</hi> Kings, <hi>H.</hi> 4. <hi>H.</hi> 5. and <hi>H.</hi> 6. held the Crown suc<g ref="char:EOLhyphen"/>cessively; yet they were all declared Usurpers, or <hi>de facto</hi> Kings, by Act of Parliament 1 <hi>Edw.</hi> 4.</p>
+               <p>And this Act of Parliament, which is in being, will out<g ref="char:EOLhyphen"/>weigh your Statute <hi>in Nubibus,</hi> which was named, but not quoted in that Rebellious Message of the Lords and Commons mentioned by <hi>Knighton.</hi> You next, from <hi>p.</hi> 54. to 59. quote some much disputed Sayings out of <hi>Bracton, Fortescue,</hi> and the <hi>Mirror,</hi> as if the King were accountable to the People, and that they might take Arms against him, <hi>&amp;c.</hi> in case of Male Administration.</p>
+               <p>
+                  <hi>Sir,</hi> Not to enter upon the Dispute of these Sayings of theirs, which you know are interpreted far otherwise than you do, it will be objected to you, that you take the sense of our English Parliaments from others, rather than them<g ref="char:EOLhyphen"/>selves; from chance Stories and Pamphlets, rather than the authentick Records, and Acts of Parliament; as if I should, for Example, quote this Book of yours for the true Sense of <hi>Abdication,</hi> against the express Words and Import of the Act of <hi>Convention,</hi> which founded the Vacancy of the Throne upon King <hi>James</hi>'s <hi>Recess,</hi> not upon the <hi>Male Administration,</hi> pretended against his Ministers onely in the Pr. of <hi>Orange</hi>'s Declaration; for the Law of <hi>England</hi> knows no such thing as
+<pb n="3" facs="tcp:205742:2"/>the King's <hi>Forfeiting</hi> his Crown, nor did either <hi>Convention</hi> or <hi>Parliament</hi> touch upon that Point; for they knew there was an Act of Parliament, 14 <hi>C.</hi> 2. which declared, <hi>That it was not lawfull upon any pretence whatsoever to take Arms against the King,</hi> &amp;c. and which as well <hi>Corporations</hi> as <hi>Clergy</hi> were ob<g ref="char:EOLhyphen"/>liged to subscribe; and, Mr. <hi>Johnson,</hi> you will tell us whe<g ref="char:EOLhyphen"/>ther ever you your self have subscribed it, and how often.</p>
+               <p>There is likewise an Act 12 <hi>C.</hi> 2. c. 30. which declares, <hi>That neither the Peers, nor Commons, nor both Houses together, nor the People Collectively nor Representatively, in Parliament or out of Parliament, nor any other Persons whatsoever, have any Coercive Power over the King of</hi> England. And 13 <hi>C.</hi> 2. <hi>That the Sword is solely in the King's Power; and that neither one nor both Houses of Parliament can, or lawfully may raise or levy any War, Offensive or Defensive, against his Majesty,</hi> &amp;c. It was this forced the Convention upon the point of <hi>Abdication, viz.</hi> that King <hi>James</hi> did voluntarily recede from the Govern<g ref="char:EOLhyphen"/>ment, (for a Forced Recess is not said to be an Abdication,) and so left the Throne vacant.</p>
+               <p>What you have said so severely against this, you have presented to the House of <hi>Commons,</hi> with whom I leave it, and go on a little with you to the Argument. I desire there<g ref="char:EOLhyphen"/>fore to know your Opinion, whether an <hi>Act of Parliament</hi> is not the <hi>supreme Law</hi> of <hi>England;</hi> whether it may not alter the <hi>Common Law,</hi> or any <hi>former Act of Parliament?</hi> Whe<g ref="char:EOLhyphen"/>ther it be not our <hi>fundamental Constitution,</hi> &amp;c. If so, then the forecited Acts are <hi>Law,</hi> are <hi>Fundamentals,</hi> are <hi>our Consti<g ref="char:EOLhyphen"/>tution;</hi> and so are the <hi>Homilies against Rebellion,</hi> for they are confirmed by Act of Parliament; and you called it in your <hi>Julian, The next best Book to the Bible.</hi> Therefore I earnestly desire your Animadversions upon the 2d <hi>Homily</hi> against Re<g ref="char:EOLhyphen"/>bellion, which if you do sincerely, will end this whole Con<g ref="char:EOLhyphen"/>troversie; and remember, as you read it, that it is every word an Act of Parliament:</p>
+               <p>But if you'll say that <hi>Parliaments</hi> may be mistaken, which you must, or yield absolutely to your old Foe, <hi>Passive Obedi<g ref="char:EOLhyphen"/>ence;</hi> then I desire to know whether, upon your Scheme, you leave it to every Man to oppose the Parliament as he thinks fit, and consequently whether the Parliament be our <hi>Funda<g ref="char:EOLhyphen"/>mental
+<pb n="4" facs="tcp:205742:3"/>Constitution;</hi> for I suppose you will not consent that every man has Authority to overturn our <hi>Foundations</hi> at his Pleasure.</p>
+               <p>I see no way you have to escape from the Authority of Parliaments, but by reducing them to their first Principles, as you suppose them, that is, to be <hi>Representatives</hi> of the <hi>People,</hi> and consequently accountable to the People, who, as you and they pretend, do impower them; and one would think that this were essential to the very nature of a <hi>Re<g ref="char:EOLhyphen"/>presentative,</hi> as we see it in <hi>Holland,</hi> where the <hi>Deputies</hi> of their <hi>Towns</hi> and <hi>Counties</hi> are obliged to consult their <hi>Princi<g ref="char:EOLhyphen"/>pals</hi> in all Cases that exceed their Instructions; and if they should give their Votes without the Consent and Approba<g ref="char:EOLhyphen"/>tion of their <hi>Principals,</hi> they would not onely be punished as Betrayers of their Trust, but their <hi>Acts</hi> made null and void.</p>
+               <p>An <hi>unaccountable Representative</hi> is a Boundless Thing; it is as absolute as the <hi>Grand Seignior;</hi> they may <hi>sell, betray,</hi> and doe what they please; and all Nations, jealous of their Li<g ref="char:EOLhyphen"/>berties, have been aware of granting any such Power to their <hi>Representatives,</hi> it having proved often more fatal than even a <hi>Conquest</hi> by <hi>Foreigners.</hi> In the Year 1672. when the <hi>French</hi> over-run <hi>Holland</hi> to that degree, that, as the <hi>Netherland</hi> Hi<g ref="char:EOLhyphen"/>storian tells us, page 39. <hi>Amsterdam</hi> it self was ready to have met the <hi>French King</hi> with the Keys of their City, if he had advanced to them, as they expected and feared. Nay, if but 4 or 5000 Horse had onely gone forward, the Histo<g ref="char:EOLhyphen"/>rian saith, that <hi>Amsterdam, Holland,</hi> and the <hi>whole State</hi> had fallen into the Enemies hands; when the enraged <hi>Mobb,</hi> mad with their Misfortunes, were threatening to sacrifice their Governours; others flying where they could, and all at their Wits end; yet even in all these most desperate and de<g ref="char:EOLhyphen"/>plorable Circumstances, when they were sending <hi>Deputies</hi> to treat with their <hi>Potent Enemy,</hi> and some proposed to give their <hi>Deputies</hi> full Power to make what Conditions they could, the History tells us in the same place, that the Pro<g ref="char:EOLhyphen"/>vince of <hi>Zealand, June</hi> 29.
+<q>Rejected the Reasons alledged for this Commission, and protested against them, decla<g ref="char:EOLhyphen"/>ring it to be a thing unheard of in the Government of these
+<pb n="5" facs="tcp:205742:3"/>Countries, to make any Plenipotentiaries, (without an arrested Instruction,) when it concerned Religion, Liber<g ref="char:EOLhyphen"/>ty, and the lawfull Government of the Land; wherefore they disavowed this Commission as suspitious, and of dan<g ref="char:EOLhyphen"/>gerous Consequence.</q>
+               </p>
+               <p>But the People of <hi>England</hi> trust their <hi>Religion, Liberty,</hi> &amp;c. into the hands of their <hi>Representatives,</hi> without any Conditi<g ref="char:EOLhyphen"/>ons, Restrictions, or Limitations whatsoever; so that if they set up the <hi>Alcoran,</hi> or <hi>Racovian Catechism;</hi> if they sell our <hi>Li<g ref="char:EOLhyphen"/>berties, Money</hi> and <hi>Properties,</hi> tho' they are taken off with <hi>Of<g ref="char:EOLhyphen"/>fices</hi> and <hi>Bribes</hi> in the face of the Sun, and change their Note in a day's time; yet they must not be accountable but to one another, and if the major part (or the leading men who go<g ref="char:EOLhyphen"/>vern the major part) be taken off, then there is no Remedy by our present <hi>Constitution;</hi> they may proclaim their being <hi>Closeted, Pensioned, Officer'd, Brib'd,</hi> and what you will; for it must come to a Vote in the <hi>House of Commons,</hi> and there they are sure to carry it.</p>
+               <p>When the Senate of <hi>Rome</hi> pretended to be <hi>unaccountable Re<g ref="char:EOLhyphen"/>presentatives,</hi> the <hi>Roman Historians</hi> tell, that they sold <hi>Rome</hi> to <hi>Jugurtha,</hi> King of <hi>Numidia,</hi> a declared Enemy of <hi>Rome,</hi> and then making War upon them. Dr. <hi>Burnet, Hist. Refor.</hi> part 2. book 2. p. 291. tells us how the <hi>Spanish Gold</hi> prepa<g ref="char:EOLhyphen"/>red the <hi>Parliament</hi> in the Reign of <hi>Phil.</hi> and <hi>Mary,</hi> even to abolish the <hi>Protestant Religion</hi> which was then <hi>Established by Law,</hi> and to set up <hi>Popery</hi> in its place. And who knows what power <hi>Gold</hi> has had, and may have in our Parliaments? It is impossible to be sure upon the Foundation we stand.</p>
+               <p>But if the <hi>Representatives</hi> were accountable to their <hi>Electors,</hi> they would be a little more cautious about <hi>Bribery,</hi> or any other sinister Designs; and if their Acts were to be ratified by their <hi>Principals,</hi> (as it is in <hi>Holland,</hi>) the Nation would be more secure, for, to be sure, the <hi>People</hi> will never sell them<g ref="char:EOLhyphen"/>selves.</p>
+               <p>Towards this it is necessary, and it is a necessary conse<g ref="char:EOLhyphen"/>quence of this, That every <hi>County</hi> and <hi>Burrough</hi> should have power to change their Member of Parliament as they see cause; how else is he their <hi>Representative?</hi> What if he will not follow their Instructions? What if they know him to
+<pb n="6" facs="tcp:205742:4"/>be brib'd and taken off? This is not to make him a <hi>Repre<g ref="char:EOLhyphen"/>sentative,</hi> but absolute <hi>Lord,</hi> and <hi>Master,</hi> and <hi>Sovereign, un<g ref="char:EOLhyphen"/>accountable, Disposer</hi> of their <hi>Lives and Fortunes,</hi> their <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> their <hi>Liberty,</hi> their <hi>Wives, Children,</hi> and <hi>Posterity.</hi>
+               </p>
+               <p>And pray tell me, Is not an <hi>Absolute King</hi> more eligible than this? He cannot be brib'd to sell his Countrey; for there is no <hi>Equivalent</hi> can be given to a King for the loss of his Kingdom: But <hi>unaccountable Representatives</hi> may be Bri<g ref="char:EOLhyphen"/>bed one by one, and there are Examples of it in all Ages, in none more than in our own.</p>
+               <p>Secondly, Is not a <hi>King</hi> more absolute for having such <hi>Re<g ref="char:EOLhyphen"/>presentatives,</hi> as Tools to pass all his Arbitrariness upon the People undiscovered, who bear whatever goes in the name of their <hi>Representatives,</hi> like a Burden one is used to, with<g ref="char:EOLhyphen"/>out complaining?</p>
+               <p>And no King can want Money to Bribe them, because they will give Money to Bribe themselves, and the People are to ask no Questions, nor to know what is become of their Mo<g ref="char:EOLhyphen"/>ney.</p>
+               <p>Mr. <hi>Johnson,</hi>
+               </p>
+               <p>The Freedom of these Thoughts I judged fittest to be communicated to you, because you set up for a Lover of your Countrey, their <hi>Original Rights</hi> and <hi>Liberties,</hi> which if they be invaded, there is no comfort or Honour to say, <hi>It is done by their Representatives;</hi> that makes their Case more <hi>la<g ref="char:EOLhyphen"/>mentable, contemptible,</hi> and <hi>incurable.</hi>
+               </p>
+               <p>No doubt you will improve these Hints, if you like them; if not, I would be glad to know how you will get over those Acts of Parliament which enact <hi>Passive Obedience.</hi> If we must stand and fall by Acts of Parliament, the Cause is determi<g ref="char:EOLhyphen"/>ned against you; if you go higher, to what you call our <hi>Ori<g ref="char:EOLhyphen"/>ginal</hi> Rights, I would be glad to partake of your Thoughts upon what I have said, with the same Calmness, and void of Reflexions, of which I have given you an Example.</p>
+               <p>I assure you my Design is for the good of my Countrey, that they may be happy, and long continue so, by being settled upon true and lasting Foundations, and that they discover and avoid all fatal Errours in their <hi>Constitution,</hi> and
+<pb n="7" facs="tcp:205742:4"/>thereby escape those <hi>Convulsive Revolutions,</hi> into which they have had such dangerous <hi>Relapses</hi> in this and the last Age, that without some effectual Remedy applied, our <hi>Dissolution</hi> see<g ref="char:EOLhyphen"/>meth to draw near. To discover the Cause is the first step towards the Cure; <hi>that</hi> I have endeavoured, how justly I leave you to judge, and desire your Correction in what I have done amiss, and am,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>The second Day of January,</hi> 1692.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+                  <signed>Your humble Servant.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>March</hi> 4. 1692.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THE <hi>Triennial Bill</hi> made me less solicitous to publish this Letter as you desired, because a Remedy did thereby seem to be provided against the <hi>Corruption</hi> of <hi>Parliament Men,</hi> so far, at least, as to give the People a Liberty to change their <hi>Representatives</hi> every <hi>Three</hi> Years. But there are a set of discontented Folks, who presume even to lay Wagers up<g ref="char:EOLhyphen"/>on the <hi>Exchange,</hi> that the K. will not pass the Bill; which no Men of Sense do believe, but it does great Prejudice among the Common People, to disaffect them against the Govern<g ref="char:EOLhyphen"/>ment; as if our <hi>Deliverer</hi> designed more <hi>Arbitrary</hi> Proceed<g ref="char:EOLhyphen"/>ings than those we complain of in the last Reign.</p>
+               <p>Sir, There is no Man will be more affected with what may unhinge this Government than your self, or better qualified to prevent so fatal a Blow as this would be to it: For the People think it no other than telling them, in plain English, that a <hi>Free Parliament</hi> must never be hoped for in this Reign, that they are affraid of such a Parliament, and that the <hi>Dis<g ref="char:EOLhyphen"/>ease</hi> of the Nation is now without <hi>Remedy.</hi> But I need not
+<pb n="8" facs="tcp:205742:5"/>put Arguments in your Mouth: I do by no means give the least Credit to that pernicious Surmise of Rejecting the Bill; but it is good to prevent all possible Hazards. And I earnest<g ref="char:EOLhyphen"/>ly recommend it to your Care; especially considering the Consequence of the late <hi>Addresses</hi> of Both Houses, which so plainly set forth the <hi>Exorbitance, Arbitrariness,</hi> and <hi>Illegality</hi> of this Government in <hi>Ireland,</hi> from the very Beginning of this Reign, as well while the King was there in Person, as since, which some make use of to over-balance all that is ob<g ref="char:EOLhyphen"/>jected against K. <hi>James</hi>'s Government, as well before as after he went into that Kingdom; which they now begin to say, has suffered much more from K. <hi>William</hi>'s Administration than K. <hi>James</hi>'s, even the <hi>Protestant Religion</hi> and Interest, by the great and illegal Favour to the <hi>Papists,</hi> and Oppression to the <hi>Protestants,</hi> so freely represented in the said Addresses. This prompts the Disaffected Party <hi>Here,</hi> to bring the Com<g ref="char:EOLhyphen"/>parison even to <hi>England,</hi> and lay to Heart the Abolition of <hi>Epis<g ref="char:EOLhyphen"/>copacy,</hi> and the violent Proceedings in favour of the <hi>Presbyte<g ref="char:EOLhyphen"/>rians</hi> in <hi>Scotland:</hi> And if this Bill should be Rejected, be<g ref="char:EOLhyphen"/>lieve me, the Objections will rise very high as to this King<g ref="char:EOLhyphen"/>dom. To prevent all which, is that, Sir, which has mov'd me to say all this to you; and I hope it will be to good Effect.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205742:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
